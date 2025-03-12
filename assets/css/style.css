@@ -1,0 +1,26 @@
+.tshirt-preview {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    position: relative;
+}
+
+#tshirt-canvas {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.draggable {
+    width: 80px;
+    height: 80px;
+    cursor: grab;
+}
+
+
+@media (max-width: 768px) {
+    .tshirt-preview {
+        max-width: 300px;
+    }
+}
