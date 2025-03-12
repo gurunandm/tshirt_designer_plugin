@@ -1,2 +1,2 @@
 # tshirt_designer_plugin
-hello this is designer plugin
+hello this is designer new
